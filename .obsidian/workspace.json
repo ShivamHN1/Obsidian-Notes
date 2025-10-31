@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "df8f936970d70036",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec1cc86cecd9d229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c780fe3011c88e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5th Sem/Theory of Computation/Unit 1 - Finite Automata/T1.1 = Introduction to Theory of Computation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T1.1 = Introduction to Theory of Computation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0b631bfee29c8ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e6cd1c1bb42134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b94dfadf75a489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ae429e19ecf5a12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "398f82a619b46822",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "84647312c8544cad",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ccef009703c60a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4ca4094f7eca3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5th Sem/Theory of Computation/Unit 1 - Finite Automata/Unit - 1  = Finite Automata (FA).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unit - 1  = Finite Automata (FA)"
+            }
+          },
+          {
+            "id": "895b71aacd1dfe36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5th Sem/Theory of Computation/Unit 1 - Finite Automata/Unit - 1  = Finite Automata (FA).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unit - 1  = Finite Automata (FA)"
+            }
+          },
+          {
+            "id": "50c2c16f2afc716b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "105516dbf3e0448b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5th Sem/Theory of Computation/Unit 1 - Finite Automata/Unit - 1  = Finite Automata (FA).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unit - 1  = Finite Automata (FA)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c780fe3011c88e75",
+  "lastOpenFiles": [
+    "5th Sem/Theory of Computation/Unit 1 - Finite Automata/Sy - 1  = Finite Automata (FA).md",
+    "5th Sem/Theory of Computation/Unit 1 - Finite Automata/T1.1 = Introduction to Theory of Computation.md",
+    "5th Sem/3_SyllabusCollege.pdf",
+    "5th Sem/Theory of Computation/Unit 1 - Finite Automata",
+    "5th Sem/Theory of Computation/TOC_Base.base",
+    "2025-10-30.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.base"
+  ]
+}
