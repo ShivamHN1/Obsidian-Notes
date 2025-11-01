@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "T1.1 = Introduction to Theory of Computation"
             }
+          },
+          {
+            "id": "7de4df9dbebb6bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5th Sem/Theory of Computation/Unit 1 - Finite Automata/T1.2 = Finite Automata Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T1.2 = Finite Automata Fundamentals"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84647312c8544cad",
@@ -170,10 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c780fe3011c88e75",
+  "active": "7de4df9dbebb6bd4",
   "lastOpenFiles": [
-    "5th Sem/Theory of Computation/Unit 1 - Finite Automata/Sy - 1  = Finite Automata (FA).md",
     "5th Sem/Theory of Computation/Unit 1 - Finite Automata/T1.1 = Introduction to Theory of Computation.md",
+    "5th Sem/Theory of Computation/Unit 1 - Finite Automata/T1.2 = Finite Automata Fundamentals.md",
+    "5th Sem/Theory of Computation/Unit 1 - Finite Automata/Sy - 1  = Finite Automata (FA).md",
     "5th Sem/3_SyllabusCollege.pdf",
     "5th Sem/Theory of Computation/Unit 1 - Finite Automata",
     "5th Sem/Theory of Computation/TOC_Base.base",
